@@ -1,5 +1,6 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Trần Anh Trung<br><br>A 17-year-old high school student with an intense passion for programming, computers, and everything tech-related. 🚀<br><br>- 🎓 Currently navigating through high school while teaching myself to code.<br>- 💡 Deeply interested in exploring new technologies and building cool projects.<br>- 🌱 I’m constantly learning and pushing my limits to become a better developer every day.
+# Hi there! 
+
+###👋 I'm Trần Anh Trung<br><br>A 17-year-old high school student with an intense passion for programming, computers, and everything tech-related. 🚀<br><br>- 🎓 Currently navigating through high school while teaching myself to code.<br>- 💡 Deeply interested in exploring new technologies and building cool projects.<br>- 🌱 I’m constantly learning and pushing my limits to become a better developer every day.
 
 
 ## 🌐 Socials:
