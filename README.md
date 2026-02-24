@@ -3,7 +3,6 @@
 -  🎓 Currently navigating through high school while teaching myself to code.
 -  💡 Deeply interested in exploring new technologies and building cool projects.
 -  🌱 I’m constantly learning and pushing my limits to become a better developer every day.
-
 ## Connect with me:
 <div align="center">
 <a href="https://github.com/iamtrungtran" target="_blank">
@@ -18,6 +17,5 @@
 <a href="https://instagram.com/dempseytran" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
